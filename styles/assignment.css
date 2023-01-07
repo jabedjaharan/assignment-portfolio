@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+/* banner styles */
+.banner{
+    margin: 0 200px;
+    display: flex;
+    align-items: right;
+    
+} 
+.banner-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 24px;
+    width: 525px;
+    height: 228px;
+}
+.banner-sub-title{
+    color: #444343;
+    margin-bottom: 32px;
+    width: 494px;
+    height: 78px;
+}
+.text-primary{
+    color: orangered;
+}
+.btn-primary{
+    height: 64px;
+    border-radius: 5px;
+    background-color: orangered;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding: 20px 25px;
+    text-align: right;
+}
+.header{
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 809px;
+    text-align: right;
+}
